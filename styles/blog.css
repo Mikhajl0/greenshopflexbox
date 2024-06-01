@@ -41,7 +41,7 @@
     text-decoration: none;
 }
 
-.search-name {
+.search-name  {
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
@@ -86,11 +86,15 @@
     width: 268px;
 }
 
+.blog-content {
+    padding: 9px 11px 12px 15px;
+}
+
 .blog-time {
     font-size: 14px;
     font-weight: 500;
     color: #46A358;
-    margin-top: 8px;
+    margin-top: 0;
     margin-bottom: 4px;
 }
 
@@ -119,8 +123,6 @@
     line-height: 16px;
     color: #3D3D3D;
 }
-
-.img-arrow {
-    display: inline-block;
-    vertical-align: middle;
+.blog-transition:hover {
+    color: #46A358;
 }
