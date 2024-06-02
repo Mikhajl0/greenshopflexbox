@@ -7,6 +7,8 @@
     background-color: rgba(245, 245, 245, 0.5);
     padding-left: 40px;
     vertical-align: top;
+    display: flex;
+    justify-content: space-between;
 }
 .text-content{
     padding-top: 68px;
@@ -53,5 +55,4 @@
 }
 .img-flower {
     display: inline-block;
-    margin-left: 88px;
 }
