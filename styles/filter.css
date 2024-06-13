@@ -1,16 +1,21 @@
 .offer {
     margin-bottom: 94px;
+}
+
+.filter-contetn {
     display: flex;
     justify-content: space-between;
 }
 
 .column-left {
     background-color: #FBFBFB;
+    height: 1268px;
+    display: flex;
+    flex-direction: column;
 }
 
 .aside {
     display: inline-block;
-    width: 310px;
     height: 774px;
     padding-top: 14px;
     padding-left: 18px;

@@ -1,6 +1,10 @@
 /*part of the header*/
 .header {
     margin-bottom: 12px;
+    padding-top: 30px;
+}
+
+.header-nav-menu {
     display: flex;
     justify-content: space-between;
 }
@@ -15,7 +19,6 @@
 }
 
 .navigation {
-    /* display: inline-block; */
     display: flex;
     justify-content: space-between;
     gap: 50px;
@@ -27,7 +30,6 @@
     text-decoration: none;
     color: #3D3D3D;
     font-size: 16px;
-    /* margin-right: 50px; */
     display:inline-block;
     line-height: 20px;
 }
